@@ -1,0 +1,7 @@
+{
+  "name": "McuFlix",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
